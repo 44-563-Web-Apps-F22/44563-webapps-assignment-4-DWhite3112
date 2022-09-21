@@ -1,14 +1,14 @@
 /*style sheet for opera page*/
 
-.speech{font-family: 'Courier New', Courier; font-size: 12; color: black;}
-.song{font-family: Arial, Helvetica, sans-serif; font-size: 14;color: black;}
-.direction{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: 20; color: black; background-color: aquamarine;} 
-.name{font-family: 'Times New Roman', Times, serif; font-size: 18; color: black;}
+.speech{font-family: 'Courier New', Courier; font-size: medium; color: black;}
+.song{font-family: Arial, Helvetica, sans-serif; font-size: medium;color: black;}
+.direction{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: larger; color: black; background-color: aquamarine;} 
+/*.name{font-family: 'Times New Roman', Times, serif; font-size: 18; color: black;}*/
 
 .direction:hover{background-color: aqua;}
-.blan{color: blue;}
-.sach{color: aliceblue;}
-.chole{color: bisque;}
-.all{color: blueviolet;}
+.blan{font-family: 'Times New Roman', Times, serif; font-size: large; color: blue;}
+.sach{font-family: 'Times New Roman', Times, serif; font-size: large; color: rgb(120, 243, 194);}
+.chole{font-family: 'Times New Roman', Times, serif; font-size: large; color: bisque;}
+.all{font-family: 'Times New Roman', Times, serif; font-size: large; color: blueviolet;}
 
 
