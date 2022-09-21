@@ -10,5 +10,8 @@
 .sach{font-family: 'Times New Roman', Times, serif; font-size: large; color: rgb(120, 243, 194);}
 .chole{font-family: 'Times New Roman', Times, serif; font-size: large; color: bisque;}
 .all{font-family: 'Times New Roman', Times, serif; font-size: large; color: blueviolet;}
+table,th,td{border: 1px solid; text-align: center; padding: 10px; margin: 15px}
+th{color: rgb(44, 125, 255);}
+td{color: rgb(254, 169, 58);}
 
 
