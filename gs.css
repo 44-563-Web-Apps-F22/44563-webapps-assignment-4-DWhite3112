@@ -3,7 +3,7 @@
 .speech{font-family: 'Courier New', Courier; font-size: medium; color: black;}
 .song{font-family: Arial, Helvetica, sans-serif; font-size: medium;color: black;}
 .direction{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: larger; color: black; background-color: aquamarine;} 
-/*.name{font-family: 'Times New Roman', Times, serif; font-size: 18; color: black;}*/
+.name{font-family: 'Times New Roman', Times, serif; font-size: 18; color: burlywood;}
 
 .direction:hover{background-color: aqua;}
 .blan{font-family: 'Times New Roman', Times, serif; font-size: large; color: blue;}
