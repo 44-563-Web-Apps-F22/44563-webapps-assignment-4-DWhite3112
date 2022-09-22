@@ -13,5 +13,6 @@
 table,th,td{border: 1px solid; text-align: center; padding: 10px; margin: 15px}
 th{color: rgb(44, 125, 255);}
 td{color: rgb(254, 169, 58);}
+.name:hover, .blan:hover,.chole:hover,.sach:hover,.all:hover{color: rgb(252, 19, 209); background-color: rgb(29, 75, 97); box-shadow: 20px palevioletred; border: yellow;}
 
 
